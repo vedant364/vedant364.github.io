@@ -6,7 +6,7 @@ download the file. save it as .html and open in browser
 
 Vedant Sandeep Dabhade
 
-Engineering Student — Acharya Institute of Technology, Bangalore
+Engineering Student — VTU, Bangalore
 
 vedantdxs@gmail.com
 
