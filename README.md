@@ -1,7 +1,6 @@
 # vedant364.github.io
 Hey this depository contains a website of my resume. Feel free to check it out and reach out to for business collaboration, professional connects, etc in the gmail  mentioned in the website.
 
-
 download the file. save it as .html and open in browser
 
 
@@ -10,6 +9,10 @@ Vedant Sandeep Dabhade
 Engineering Student — Acharya Institute of Technology, Bangalore
 
 vedantdxs@gmail.com
+
+My Socials: https://x.com/blue_star_royco
+
+My notes and learning journey resource on my site: https://vedant-lrc.notion.site/My-useful-learning-resources-a57f70cff0004a24a5b6caf9967ee4b0?pvs=4
 
 
 Skills
