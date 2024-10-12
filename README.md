@@ -16,6 +16,15 @@ My notes and learning journey resource on my site: https://vedant-lrc.notion.sit
 
 
 Skills
+
+Fundraising, Team Building and Leadership
+
+Recruitment and Hiring
+
+Community Building
+
+Pitching
+
 Programming: C, C++, Python
 
 Communication: Public Speaking, Presentation
