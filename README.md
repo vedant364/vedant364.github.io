@@ -1,7 +1,7 @@
 # vedant364.github.io
-Hey this depository contains a website of my resume. Feel free to check it out and reach out to for business collaboration, professional connects, etc in the gmail  mentioned in the website.
 
-download the file. save it as .html and open in browser
+Hey this is my resume. 
+Feel free to check it out and reach out to for business collaboration, professional connects, etc in the gmail  mentioned in the website.
 
 
 Vedant Sandeep Dabhade
@@ -22,6 +22,7 @@ Fundraising, Team Building and Leadership
 Recruitment and Hiring
 
 Community Building
+Have made a TG community of 50+ ppl: [t.me/fullystackedengineers](https://t.me/fullystackedengineers)
 
 Pitching
 
@@ -41,16 +42,18 @@ Networking: Electronics, General
 
 Social Skills: Excellent
 
-Languages: English,Sanskrit, Hindi, Kannada, Ma
+Languages: English,Sanskrit, Hindi, Kannada, Marathi
 
 
 Experience
 Internships:
 • Impact Ecosystem - Bengaluru, 2023
 • House of Wisdom- Bengaluru, 2023
+• Curiosense Innovations Private Ltd. - Bengaluru, 2024
+• BrownRice Capital, PYOR(sister company) - Bengaluru, 2024
 
 Volunteer Experience:
-• Community Manager Brand Ambassador - Invest In Earth Day, Bengaluru, 2023
+• Community Manager, Brand Ambassador - Invest In Earth Day, Bengaluru, 2023
 
 Leadership
 Leader, Team Name:Red Flags, [Paper Hackathon], [2023]
