@@ -12,6 +12,8 @@ vedantdxs@gmail.com
 
 My Socials: https://x.com/blue_star_royco
 
+My Linkedin: https://www.linkedin.com/in/vedant-sd
+
 My notes and learning journey resource on my site: https://vedant-lrc.notion.site/My-useful-learning-resources-a57f70cff0004a24a5b6caf9967ee4b0?pvs=4
 
 
